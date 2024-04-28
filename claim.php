@@ -2,11 +2,11 @@
 
 /*
 Script Name : Multi Claim Coin To ExpressCrypto.io
-Author : Kingtebe
+Author : ALTO MEDIA
 Date : 21-07-2021
 Version 1.1
 Note : Kagak usah rikod Anjim, tinggal pake aja ribet amat !!
-Github : https://github.com/Kingtebe
+Github : https://github.com/kdsmedia/autofaucet
 */
 
 // Only Color
